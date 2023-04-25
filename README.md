@@ -10,3 +10,8 @@ A web scraping application that scrapes data from a video game website, istherea
 * Java
 * Java Swing
 * Jsoup scraping tools
+
+# Pictures
+
+![](pictures/anydeal1.png)
+![](pictures/anydeal3.png)
